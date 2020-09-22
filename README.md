@@ -8,5 +8,4 @@
 <a href="https://github.com/aigerim1997/my-portfolio/tree/master/clustering-lca" target="_blank">View code on GitHub</a>
 
 ## Project 4. Graph-Based Text Summarization of Earnings Calls Transcripts: The Effects of Changing Sentence-Vector Representation
-
-fkrmflmlmr3lgmelmg
+<a href="https://github.com/aigerim1997/my-portfolio/tree/master/text-summarization" target="_blank">View code on GitHub</a>
