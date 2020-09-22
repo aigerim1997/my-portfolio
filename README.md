@@ -1,7 +1,7 @@
 
 # Classification
 
-### Project 1. Identifying Star Trek Fans among Star Wars Fans: Accuracy-Interpretability Trade-off in Supervised Machine learning
+### <span style="color:red"> *Project 1. Identifying Star Trek Fans among Star Wars Fans: Accuracy-Interpretability Trade-off in Supervised Machine learning* </span>
 <a href="https://github.com/aigerim1997/my-portfolio/tree/master/accuracy-interpretability-tradeoff" target="_blank">View code on GitHub</a>
 
 ### Project 2. Predicting Buying Intention of E-commerce Customers Using a Feedforward Neural Network
