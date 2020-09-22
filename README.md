@@ -1,4 +1,4 @@
-# My Projects
+# <span style="color:blue"> My Projects <\span>
 
 <br>
 ### **Identifying Star Trek Fans among Star Wars Fans: Accuracy-Interpretability Trade-off in Supervised Machine learning** <a href="https://github.com/aigerim1997/my-portfolio/tree/master/accuracy-interpretability-tradeoff" target="_blank"> (View Code) </a>
@@ -8,7 +8,7 @@ The goal of this project was to identify the most important factors in predictin
 *Tags: Classification, Logistic Regression (Lasso), Random Forest, Permutation Based Variable Importance, Partial Dependence Plots, R*
 
 <br>
-### <span style="color:black"> Predicting Buying Intention of E-commerce Customers Using a Feedforward Neural Network </span> <a href="https://github.com/aigerim1997/my-portfolio/tree/master/fnn" target="_blank"> (View Code) </a>
+### **Predicting Buying Intention of E-commerce Customers Using a Feedforward Neural Network** <a href="https://github.com/aigerim1997/my-portfolio/tree/master/fnn" target="_blank"> (View Code) </a>
 <p align="justify">
 In this project, an artificial neural network (ANN) was used to classify online shoppers according to their
 intentions to make a purchase, the research objective being: “To predict whether an e-commerce customer
@@ -17,7 +17,7 @@ will finalize their purchase using clickstream data, as accurately as possible.�
 *Tags: Classification, Feedforward Neural Network, Keras*
 
 <br>
-### <span style="color:black"> Segmentation of Coffee Drinkers on Campus Using Latent Class Analysis </span> <a href="https://github.com/aigerim1997/my-portfolio/tree/master/clustering-lca" target="_blank"> (View Code) </a>
+### **Segmentation of Coffee Drinkers on Campus Using Latent Class Analysis** <a href="https://github.com/aigerim1997/my-portfolio/tree/master/clustering-lca" target="_blank"> (View Code) </a>
 <p align="justify">
 This project was done in a team of 4, where we conducted a survey and used Latent Class Analysis to identify segments of coffee drinkers at Erasmus University campus. In this research, we assessed what groups and which characteristics can be distinguished based on attributes that students at the Erasmus University find important when buying coffee. LCA was preferred over other clustering techniques since it is suitable for working with categorical variables, which were prevalent in the survey data (available on GitHub). A model with two clusters was chosen since it outperformed others in terms of statistical fit (lowest BIC value) and business utility (balanced clusters, more interpretable). 
 <br>
@@ -26,7 +26,7 @@ The first cluster was identified as ‘Foodies’, since they value the ability 
 *Tags: Clustering, Latent Class Analysis, R, Segmentation*
 
 <br>
-### <span style="color:black"> Graph-Based Text Summarization of Earnings Calls Transcripts: The Effects of Changing Sentence-Vector Representation </span> <a href="https://github.com/aigerim1997/my-portfolio/tree/master/text-summarization" target="_blank"> (View Code) </a>
+### **Graph-Based Text Summarization of Earnings Calls Transcripts: The Effects of Changing Sentence-Vector Representation** <a href="https://github.com/aigerim1997/my-portfolio/tree/master/text-summarization" target="_blank"> (View Code) </a>
 <p align="justify">
 This was my Master graduation project which illustrated the use of an NLP tool called automatic summarization algorithm in the domain of corporate disclosure. The goal of this study was to compare a graph-based summarization algorithm that incorporates semantic inter-sentence similarities to one that only takes into account lexical similarities, by producing summaries of 20 earnings call transcripts. The two algorithms differ in their sentence-vector representations: the lexical summarization algorithm employs a bag-of-words (BOW) model to obtain sentence-vectors, while the semantic summarization algorithm makes use of sentence embeddings (Doc2Vec). 
 <br>
