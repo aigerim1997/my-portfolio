@@ -1,6 +1,6 @@
 # My Projects
 
-
+<br>
 ### <span style="color:black"> Identifying Star Trek Fans among Star Wars Fans: Accuracy-Interpretability Trade-off in Supervised Machine learning </span> <a href="https://github.com/aigerim1997/my-portfolio/tree/master/accuracy-interpretability-tradeoff" target="_blank"> (View Code) </a>
 <p align="justify">
 The goal of this project was to identify the most important factors in predicting whether a person who likes Star Wars is also a fan of the Star Trek franchise. As part of this project, a trade-off between interpretability and predictive power has been examined by comparing two methods: logistic regression with lasso regularization, which is pretty straightforward to interpret, and random forest, which gives better prediction results but is more 'black-box' and thus requires model agnostic methods to make the model interpretable.
