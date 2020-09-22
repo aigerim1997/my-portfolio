@@ -1,4 +1,4 @@
-# <p align="center"><span style="color:#21618C "> My Projects </span> </p>
+# <p align="centered"><span style="color:#21618C "> My Projects </span> </p>
 
 <br>
 ### **Identifying Star Trek Fans among Star Wars Fans: Accuracy-Interpretability Trade-off in Supervised Machine learning** <a href="https://github.com/aigerim1997/my-portfolio/tree/master/accuracy-interpretability-tradeoff" target="_blank"> (View Code) </a>
