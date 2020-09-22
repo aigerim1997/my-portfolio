@@ -1,6 +1,15 @@
 # <span style="color:#21618C "> My Projects </span> 
 
 <br>
+### **Graph-Based Text Summarization of Earnings Calls Transcripts: The Effects of Changing Sentence-Vector Representation** <a href="https://github.com/aigerim1997/my-portfolio/tree/master/text-summarization" target="_blank"> (View Code) </a>
+<p align="justify">
+This was my Master graduation project which illustrated the use of an NLP tool called automatic summarization algorithm in the domain of corporate disclosure. The goal of this study was to compare a graph-based summarization algorithm that incorporates semantic inter-sentence similarities to one that only takes into account lexical similarities, by producing summaries of 20 earnings call transcripts. The two algorithms differ in their sentence-vector representations: the lexical summarization algorithm employs a bag-of-words (BOW) model to obtain sentence-vectors, while the semantic summarization algorithm makes use of sentence embeddings (Doc2Vec). 
+<br>
+After producing the summaries and evaluating them with a help of six human judges, it has been concluded that the semantic algorithm produces summaries containing information that is more useful for making investment decisions about a company. In addition, a qualitative comparison of the summaries produced using the two approaches has revealed that the ones produced by the semantic summarization algorithm contain potentially more useful sentences. This was evident from the semantic algorithm including relatively fewer redundant transition sentences, and more information related to a firm’s performance. Moreover, the semantic summaries proved to be less repetitive and therefore provide more diverse information, which is beneficial in the case of corporate disclosure, since the users would prefer to learn about different aspects of a firm’s performance in order to make an investment decision.
+</p>
+<small>Tags: NLP, Automatic Text Summarization, TextRank, Doc2Vec, Bag-of-Words, R, Python, Corporate Disclosure</small>
+
+<br>
 ### **Identifying Star Trek Fans among Star Wars Fans: Accuracy-Interpretability Trade-off in Supervised Machine learning** <a href="https://github.com/aigerim1997/my-portfolio/tree/master/accuracy-interpretability-tradeoff" target="_blank"> (View Code) </a>
 <p align="justify">
 The goal of this project was to identify the most important factors in predicting whether a person who likes Star Wars is also a fan of the Star Trek franchise. As part of this project, a trade-off between interpretability and predictive power has been examined by comparing two methods: logistic regression with lasso regularization, which is pretty straightforward to interpret, and random forest, which gives better prediction results but is more 'black-box' and thus requires model agnostic methods to make the model interpretable.
@@ -25,12 +34,5 @@ The first cluster was identified as ‘Foodies’, since they value the ability 
 </p>
 <small>Tags: Clustering, Latent Class Analysis, R, Segmentation</small>
 
-<br>
-### **Graph-Based Text Summarization of Earnings Calls Transcripts: The Effects of Changing Sentence-Vector Representation** <a href="https://github.com/aigerim1997/my-portfolio/tree/master/text-summarization" target="_blank"> (View Code) </a>
-<p align="justify">
-This was my Master graduation project which illustrated the use of an NLP tool called automatic summarization algorithm in the domain of corporate disclosure. The goal of this study was to compare a graph-based summarization algorithm that incorporates semantic inter-sentence similarities to one that only takes into account lexical similarities, by producing summaries of 20 earnings call transcripts. The two algorithms differ in their sentence-vector representations: the lexical summarization algorithm employs a bag-of-words (BOW) model to obtain sentence-vectors, while the semantic summarization algorithm makes use of sentence embeddings (Doc2Vec). 
-<br>
-After producing the summaries and evaluating them with a help of six human judges, it has been concluded that the semantic algorithm produces summaries containing information that is more useful for making investment decisions about a company. In addition, a qualitative comparison of the summaries produced using the two approaches has revealed that the ones produced by the semantic summarization algorithm contain potentially more useful sentences. This was evident from the semantic algorithm including relatively fewer redundant transition sentences, and more information related to a firm’s performance. Moreover, the semantic summaries proved to be less repetitive and therefore provide more diverse information, which is beneficial in the case of corporate disclosure, since the users would prefer to learn about different aspects of a firm’s performance in order to make an investment decision.
-</p>
-<small>Tags: NLP, Automatic Text Summarization, TextRank, Doc2Vec, Bag-of-Words, R, Python, Corporate Disclosure</small>
+
 
