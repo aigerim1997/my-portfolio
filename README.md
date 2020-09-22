@@ -14,7 +14,7 @@ In this project, an artificial neural network (ANN) was used to classify online 
 intentions to make a purchase, the research objective being: “To predict whether an e-commerce customer
 will finalize their purchase using clickstream data, as accurately as possible.” This is an individual project which was aimed at introducing myself to deep learning, learn how to train, tune and test a feedforward neural network, and to familiarize myself with the Keras package. 
 </p>
-*Tags: Classification, Feedforward Neural Network, Keras*
+<small>Tags: Classification, Feedforward Neural Network, Keras </small>
 
 <br>
 ### **Segmentation of Coffee Drinkers on Campus Using Latent Class Analysis** <a href="https://github.com/aigerim1997/my-portfolio/tree/master/clustering-lca" target="_blank"> (View Code) </a>
@@ -23,7 +23,7 @@ This project was done in a team of 4, where we conducted a survey and used Laten
 <br>
 The first cluster was identified as ‘Foodies’, since they value the ability to buy additional food and quality over other attributes. This group consisted mostly of Bachelor students who turned out to be less frequent coffee buyers. The second segment was identified as ‘Lazy’, as proximity to study spots was the most important consideration for this group. These students are usually Master students who only drink coffee for the caffeine or out of habit. In conclusion, a recommendation for the fictional coffee provider on campus was that in order to attract more “Foodies”, the provider can increase the quality of coffee or offer combo deals that promote, for example, discounts when buying both food and coffee. As for the “Lazy” segment, an additional coffee machine could be placed in close proximity to popular study places.
 </p>
-*Tags: Clustering, Latent Class Analysis, R, Segmentation*
+<small>Tags: Clustering, Latent Class Analysis, R, Segmentation</small>
 
 <br>
 ### **Graph-Based Text Summarization of Earnings Calls Transcripts: The Effects of Changing Sentence-Vector Representation** <a href="https://github.com/aigerim1997/my-portfolio/tree/master/text-summarization" target="_blank"> (View Code) </a>
@@ -32,5 +32,5 @@ This was my Master graduation project which illustrated the use of an NLP tool c
 <br>
 After producing the summaries and evaluating them with a help of six human judges, it has been concluded that the semantic algorithm produces summaries containing information that is more useful for making investment decisions about a company. In addition, a qualitative comparison of the summaries produced using the two approaches has revealed that the ones produced by the semantic summarization algorithm contain potentially more useful sentences. This was evident from the semantic algorithm including relatively fewer redundant transition sentences, and more information related to a firm’s performance. Moreover, the semantic summaries proved to be less repetitive and therefore provide more diverse information, which is beneficial in the case of corporate disclosure, since the users would prefer to learn about different aspects of a firm’s performance in order to make an investment decision.
 </p>
-*Tags: NLP, Automatic Text Summarization, TextRank, Doc2Vec, Bag-of-Words, R, Python, Corporate Disclosure*
+<small>Tags: NLP, Automatic Text Summarization, TextRank, Doc2Vec, Bag-of-Words, R, Python, Corporate Disclosure</small>
 
