@@ -10,13 +10,11 @@ The goal of this project was to identify the most important factors in predictin
 <a href="https://github.com/aigerim1997/my-portfolio/tree/master/fnn" target="_blank">View code on GitHub</a>
 
 \
-\
 # Clustering
 
 ### <span style="color:black"> Segmentation of Coffee Drinkers on Campus Using Latent Class Analysis (LCA) </span>
 <a href="https://github.com/aigerim1997/my-portfolio/tree/master/clustering-lca" target="_blank">View code on GitHub</a>
 
-\
 \
 # NLP
 
