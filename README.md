@@ -32,5 +32,5 @@ This was my Master graduation project which illustrated the use of an NLP tool c
 <br>
 After producing the summaries and evaluating them with a help of six human judges, it has been concluded that the semantic algorithm produces summaries containing information that is more useful for making investment decisions about a company. In addition, a qualitative comparison of the summaries produced using the two approaches has revealed that the ones produced by the semantic summarization algorithm contain potentially more useful sentences. This was evident from the semantic algorithm including relatively fewer redundant transition sentences, and more information related to a firm’s performance. Moreover, the semantic summaries proved to be less repetitive and therefore provide more diverse information, which is beneficial in the case of corporate disclosure, since the users would prefer to learn about different aspects of a firm’s performance in order to make an investment decision.
 </p>
-*Tags: NLP, Automatic Text Summarization, TextRank, Doc2Vec, Bag-of-Words, R, Python*
+*Tags: NLP, Automatic Text Summarization, TextRank, Doc2Vec, Bag-of-Words, R, Python, Corporate Disclosure*
 
