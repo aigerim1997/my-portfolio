@@ -1,7 +1,6 @@
 title: Aigerim Sadykova's Portfolio
 description: "An Integrated Scientific Blogging Template"
 
-header-img: img/home-bg.jpg
-headercolor: "#FFFFFF"
 
-remote_theme: project-pages
+
+theme: minima
